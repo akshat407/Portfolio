@@ -6,7 +6,7 @@ export const experienceSection: ExperienceSectionType = {
     {
       company: 'BetaZen InfoTech',
       companyUrl: 'https://betazeninfotech.com/',
-      role: 'SOftware Developer Intern',
+      role: 'Software Developer Intern',
       started: 'March 2024',
       upto: 'May 2024',
       tasks: [
